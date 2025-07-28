@@ -31,4 +31,4 @@ if st.button("Predict"):
         st.success("✅ No Risk Detected. You're Safe!")
 
 st.markdown("---")
-st.caption("Created during Summer Internship @ Cognifyz Technologies")
+st.caption("Created by Ayush Ranjan during Summer Internship @ Cognifyz Technologies")

@@ -32,3 +32,4 @@ if st.button("Predict"):
 
 st.markdown("---")
 st.caption("Created by Ayush Ranjan during Summer Internship @ Cognifyz Technologies")
+
